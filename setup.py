@@ -16,7 +16,6 @@ setup(
     download_url = 'https://github.com/Hiwen-STEM/OxidationNumberCalculator',
     keywords = ['Oxidation','Number','Oxidation_Number','oxidation_number','stoichiometry','chemical','equation','chemical_equation'],
     install_requires=[
-        're',
         'mendeleev'
     ],
     classifiers=[
