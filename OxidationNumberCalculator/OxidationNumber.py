@@ -815,9 +815,3 @@ def chargeCheck(oxidation, subscript, breakdown, charge, flag, peroxide):
             oxidation[oxidation.index("NULL")] = (charge - sum) / subscript[oxidation.index("NULL")]
 
     return oxidation
-
-def main():
-
-    print(processI("C6H12O4",-1))
-
-main()
