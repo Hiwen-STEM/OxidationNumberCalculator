@@ -1,7 +1,5 @@
-# Oxidation Number Calculator - Beta Version - (Still Needs Optimizing and Bug Removal): The oxidation number Calculator takes in a chemical equation
-or individual compound and returns the oxidation numbers of each element involved (in the case of a chemical equation, several lists of oxidation numbers
-for each compound will be returned). This module has yet to be fully optimized and cleaned of potential bugs; more testing is to come in the following
-week along with updates.
+# Oxidation Number Calculator - Beta Version - (Still Needs Optimizing and Bug Removal): 
+The oxidation number Calculator takes in a chemical equationor individual compound and returns the oxidation numbers of each element involved (in the case of a chemical equation, several lists of oxidation numbers for each compound will be returned). This module has yet to be fully optimized and cleaned of potential bugs; more testing is to come in the following week along with updates.
 
 #Overview
 Documentation for the Oxidation Number Calculator:
